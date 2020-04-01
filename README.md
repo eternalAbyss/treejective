@@ -19,9 +19,9 @@ The main features of the website is to provide the user with several objectives 
 ### Requirements
 
 Some required tools to run the project are:
-    1. PHP (7.4.1)
-    2. Composer (version 1.9.1) *check out how to [install composer](https://getcomposer.org/download/)*
-    3. XAMPP *or similar hosting service*
+1. PHP (7.4.1)
+2. Composer (version 1.9.1) *check out how to [install composer](https://getcomposer.org/download/)*
+3. XAMPP *or similar hosting service*
 
 ### Steps to run the project
 
